@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Gonzalez</h1>
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
 - 💬 Ask me about **React, JS, Postgress, Sequelize, Nodejs, Html, CSS, Git, Github, Express, Redux**
